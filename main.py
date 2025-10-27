@@ -3,7 +3,7 @@ def main():
     print("开始学习版本控制！")
     print("修复了显示问题")
     print("发现新的问题")
-
+    print("解决最近问题")
 
 if __name__ == "__main__":
     main()
